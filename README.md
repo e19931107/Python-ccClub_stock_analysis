@@ -41,6 +41,7 @@ https://www.youtube.com/watch?v=5QZqzKCDCQ4
 
 ## 企劃書:
 https://docs.google.com/presentation/d/1m99mGraNMIVnai1Qepd4Md44LRycaILSr8MV6HTp5WU/edit#slide=id.g27623d9826f_1_0
+
 [ccClub Final.pdf](https://github.com/e19931107/Python-ccClub_stock_analysis/files/14051487/ccClub.Final.pdf)
 
 
