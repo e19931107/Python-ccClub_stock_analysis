@@ -44,4 +44,32 @@ https://docs.google.com/presentation/d/1m99mGraNMIVnai1Qepd4Md44LRycaILSr8MV6HTp
 
 [ccClub Final.pdf](https://github.com/e19931107/Python-ccClub_stock_analysis/files/14051487/ccClub.Final.pdf)
 
+![ccClub Final_pages-to-jpg-0001](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/5836d19b-046e-4545-b301-25bc047c594e)
 
+![ccClub Final_pages-to-jpg-0002](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/d0bfc38d-e43c-4ff4-b032-b15addae4855)
+
+![ccClub Final_pages-to-jpg-0003](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/5017eb4a-13c5-4f51-8327-9319fc8ce25b)
+
+![ccClub Final_pages-to-jpg-0004](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/3a30f1bc-94e3-4e91-b004-94cad46acb9c)
+
+![ccClub Final_pages-to-jpg-0005](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/db06c96b-5688-43f3-b5af-46c53bb2fc1e)
+
+![ccClub Final_pages-to-jpg-0006](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/b53ea076-0e37-4e68-ac0c-3d61320d710f)
+
+![ccClub Final_pages-to-jpg-0007](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/8dcfd72b-f83d-4531-b55a-18cda9c5334b)
+
+![ccClub Final_pages-to-jpg-0008](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/f8b979f1-1efe-4899-a2c6-7e220b61c83e)
+
+![ccClub Final_pages-to-jpg-0009](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/e5b4fed7-0c5e-4e38-9525-c5f70d92d944)
+
+![ccClub Final_pages-to-jpg-0010](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/8f5448d3-67e9-4399-b92f-3e01b259c948)
+
+![ccClub Final_pages-to-jpg-0011](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/660c9fc5-876a-40fe-b9cc-deda5005f10d)
+
+![ccClub Final_pages-to-jpg-0012](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/d43bb0ce-479c-4877-b2cc-abe78bb18680)
+
+![ccClub Final_pages-to-jpg-0013](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/df0ebfe8-cd7d-4052-9f46-bc95f14f5956)
+
+![ccClub Final_pages-to-jpg-0014](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/ff0152bd-bbb6-4012-b4a8-6f6a756f1bdf)
+
+![ccClub Final_pages-to-jpg-0015](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/45bec6e2-1835-410d-bd26-1f81a3149b23)
