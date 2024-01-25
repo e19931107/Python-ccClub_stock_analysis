@@ -73,3 +73,6 @@ https://docs.google.com/presentation/d/1m99mGraNMIVnai1Qepd4Md44LRycaILSr8MV6HTp
 ![ccClub Final_pages-to-jpg-0014](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/ff0152bd-bbb6-4012-b4a8-6f6a756f1bdf)
 
 ![ccClub Final_pages-to-jpg-0015](https://github.com/e19931107/Python-ccClub_stock_analysis/assets/50692450/45bec6e2-1835-410d-bd26-1f81a3149b23)
+
+Video:
+https://youtu.be/xS6sOURHsyY
